@@ -1,7 +1,8 @@
 CMakeFiles/webserver.dir/tcp/Buffer.cpp.o: \
- /home/byy/project/day29/tcp/Buffer.cpp /usr/include/stdc-predef.h \
- /home/byy/project/day29/tcp/Buffer.h /usr/include/c++/11/memory \
- /usr/include/c++/11/bits/stl_algobase.h \
+ /home/zhllj/server/server_zhh_first/tcp/Buffer.cpp \
+ /usr/include/stdc-predef.h \
+ /home/zhllj/server/server_zhh_first/tcp/Buffer.h \
+ /usr/include/c++/11/memory /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -148,4 +149,4 @@ CMakeFiles/webserver.dir/tcp/Buffer.cpp.o: \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc /usr/include/c++/11/cstring \
  /usr/include/string.h /usr/include/strings.h \
- /home/byy/project/day29/base/common.h /usr/include/assert.h
+ /home/zhllj/server/server_zhh_first/base/common.h /usr/include/assert.h

@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/test/http_server.cpp.o -c /home/zhllj/server/server_zhh_first/test/http_server.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/test/http_server.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/base/CurrentThread.cpp.o -c /home/zhllj/server/server_zhh_first/base/CurrentThread.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/base/CurrentThread.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/tcp/Acceptor.cpp.o -c /home/zhllj/server/server_zhh_first/tcp/Acceptor.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/tcp/Acceptor.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/tcp/Buffer.cpp.o -c /home/zhllj/server/server_zhh_first/tcp/Buffer.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/tcp/Buffer.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/tcp/Channel.cpp.o -c /home/zhllj/server/server_zhh_first/tcp/Channel.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/tcp/Channel.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/tcp/Epoller.cpp.o -c /home/zhllj/server/server_zhh_first/tcp/Epoller.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/tcp/Epoller.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/tcp/EventLoop.cpp.o -c /home/zhllj/server/server_zhh_first/tcp/EventLoop.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/tcp/EventLoop.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/tcp/EventLoopThread.cpp.o -c /home/zhllj/server/server_zhh_first/tcp/EventLoopThread.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/tcp/EventLoopThread.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/tcp/EventLoopThreadPool.cpp.o -c /home/zhllj/server/server_zhh_first/tcp/EventLoopThreadPool.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/tcp/EventLoopThreadPool.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/tcp/TcpConnection.cpp.o -c /home/zhllj/server/server_zhh_first/tcp/TcpConnection.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/tcp/TcpConnection.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/tcp/TcpServer.cpp.o -c /home/zhllj/server/server_zhh_first/tcp/TcpServer.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/tcp/TcpServer.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/http/HttpContext.cpp.o -c /home/zhllj/server/server_zhh_first/http/HttpContext.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/http/HttpContext.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/http/HttpRequest.cpp.o -c /home/zhllj/server/server_zhh_first/http/HttpRequest.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/http/HttpRequest.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/http/HttpResponse.cpp.o -c /home/zhllj/server/server_zhh_first/http/HttpResponse.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/http/HttpResponse.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/http/HttpServer.cpp.o -c /home/zhllj/server/server_zhh_first/http/HttpServer.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/http/HttpServer.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/timer/Timer.cpp.o -c /home/zhllj/server/server_zhh_first/timer/Timer.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/timer/Timer.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/timer/TimerQueue.cpp.o -c /home/zhllj/server/server_zhh_first/timer/TimerQueue.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/timer/TimerQueue.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/log/AsyncLogging.cpp.o -c /home/zhllj/server/server_zhh_first/log/AsyncLogging.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/log/AsyncLogging.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/log/LogFile.cpp.o -c /home/zhllj/server/server_zhh_first/log/LogFile.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/log/LogFile.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/log/LogStream.cpp.o -c /home/zhllj/server/server_zhh_first/log/LogStream.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/log/LogStream.cpp"
+},
+{
+  "directory": "/home/zhllj/server/server_zhh_first/build",
+  "command": "/usr/bin/c++  -I/home/zhllj/server/server_zhh_first/base -I/home/zhllj/server/server_zhh_first/tcp -I/home/zhllj/server/server_zhh_first/log -I/home/zhllj/server/server_zhh_first/http -I/home/zhllj/server/server_zhh_first/timer -O0 -Wall -Werror -std=gnu++14 -o CMakeFiles/webserver.dir/log/Logging.cpp.o -c /home/zhllj/server/server_zhh_first/log/Logging.cpp",
+  "file": "/home/zhllj/server/server_zhh_first/log/Logging.cpp"
+}
+]
